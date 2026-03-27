@@ -32,25 +32,30 @@ The dataset contains information about **movies and TV shows available on stream
 Below is a preview of the dataset showing the **first five records**.
 <img width="1515" height="187" alt="Screenshot 2026-03-27 215102" src="https://github.com/user-attachments/assets/953be4ee-728e-43ed-9e6d-d2544f61ae99" />
 
-Example rows include titles such as:
-
-- Dick Johnson Is Dead  
-- Blood & Water  
-- Ganglands  
-- Jailbirds New Orleans  
-- Kota Factory  
-
 ---
 
 ## 🎯 Project Objectives
 
 The main goals of this project are:
 
+- Clean and preprocess the dataset
 - Analyze the **distribution of Movies vs TV Shows**
 - Identify **top countries producing content**
 - Explore **content trends across years**
 - Examine **popular genres and ratings**
 - Analyze **directors and cast appearances**
+
+---
+
+📈 Visualizations
+
+The project includes several visualizations such as:
+
+- Bar charts for content type distribution
+- Country-wise content production
+- Genre popularity charts
+- Release year timeline
+- Rating distribution graphs
 
 ---
 
@@ -70,17 +75,6 @@ The main goals of this project are:
 - GitHub
 
 ---
-
-## 📂 Project Structure
-
-```
-Streaming-Content-Dataset-Analysis
-│
-├── dataset_preview.png
-├── analysis.ipynb
-├── dataset.csv
-└── README.md
-```
 
 ---
 
@@ -128,14 +122,3 @@ Examples of insights that can be generated:
 - Distribution of **ratings and durations**
 
 ---
-
-## 👩‍💻 Author
-
-**Prakruthi R**
-
-GitHub:  
-https://github.com/Prakruthir12
-
----
-
-⭐ If you find this project useful, consider **starring the repository**.
