@@ -36,15 +36,27 @@ Below is a preview of the dataset showing the **first five records**.
 
 ## 🎯 Project Objectives
 
-The main goals of this project are:
+The project aims to:
 
 - Clean and preprocess the dataset
-- Analyze the **distribution of Movies vs TV Shows**
-- Identify **top countries producing content**
-- Explore **content trends across years**
-- Examine **popular genres and ratings**
-- Analyze **directors and cast appearances**
+- Explore trends in streaming content
+- Compare Movies vs TV Shows
+- Analyze content distribution by country
+- Study genre popularity
+- Investigate release year trends
+- Visualize patterns in the dataset
+---
 
+## 🔧 Data Cleaning Steps
+
+Several preprocessing steps were applied:
+
+- Handling missing values
+- Standardizing column formats
+- Converting date_added into datetime format
+- Separating duration into minutes/seasons
+- Splitting multi-value columns like listed_in
+- Removing duplicates
 ---
 
 📈 Visualizations
