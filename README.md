@@ -118,7 +118,7 @@ jupyter notebook
 Run the notebook:
 
 ```
-analysis.ipynb
+Netflix_BusinessCase.ipynb
 ```
 
 ---
