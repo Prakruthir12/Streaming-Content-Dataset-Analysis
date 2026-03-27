@@ -59,7 +59,7 @@ Several preprocessing steps were applied:
 - Removing duplicates
 ---
 
-📈 Visualizations
+## 📈 Visualizations
 
 The project includes several visualizations such as:
 
